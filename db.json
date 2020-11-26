@@ -52,7 +52,7 @@
 ],
  "docker" :[
     {
-       "name" : "docker"
+       "name" : "docker",
        "returnVal" : "docker-18.09-3"
     },
     {
