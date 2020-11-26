@@ -49,5 +49,20 @@
       "Description":"With Pro JavaScript Design Patterns, you'll start with the basics of object-oriented programming in JavaScript applicable to design patterns, including making JavaScript more expressive, inheritance, encapsulation, information hiding, and more. The book then details how to implement and take advantage of several design patterns in JavaScript. Each chapter is packed with real-world examples of how the design patterns are best used and expert advice on writing better code, as well as what to watch out for. Along the way you'll discover how to create your own libraries and APIs for even more efficient coding.",
       "CoverPhoto":"https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/5905/9781590599082.jpg"
    }
-]
+],
+ "docker" :[
+    {
+       "name" : "docker"
+    },
+    {
+       "name" : "docker",
+       "release" : "18.06"
+    },
+    {
+       "name" : "docker",
+       "release" : "18.03"
+    }
+    
+    
+    ]
 }
