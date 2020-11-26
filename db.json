@@ -53,14 +53,17 @@
  "docker" :[
     {
        "name" : "docker"
+       "returnVal" : "docker-18.09-3"
     },
     {
        "name" : "docker",
-       "release" : "18.06"
+       "release" : "18.06",
+        "returnVal" : "docker-18.06-3"
     },
     {
        "name" : "docker",
-       "release" : "18.03"
+       "release" : "18.03",
+        "returnVal" : "docker-18.03-3"
     }
     
     
