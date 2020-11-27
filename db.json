@@ -36,7 +36,7 @@
       "Rating":4.1,
       "Price":178,
       "OffPercent":10,
-      "Description":"Capturing a wealth of experience about the design of object-oriented software, four top-notch designers present a catalog of simple and succinct solutions to commonly occurring design problems. Previously undocumented, these 23 patterns allow designers to create more flexible, elegant, and ultimately reusable designs without having to rediscover the design solutions themselves.",
+      "Description":"Capturing a wealth of experience about the design of object-oriented software, four top-notch designers present a catalog of simple and succinct solutions to commonly occurring design problems. Previously undocumented, these 23 patterns allow designers to create more flexible, elegant, and ultimately reusable designs.",
       "CoverPhoto":"https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/2016/9780201633610.jpg"
    },
    {
@@ -46,7 +46,7 @@
       "Rating":3.5,
       "Price":179,
       "OffPercent":5,
-      "Description":"With Pro JavaScript Design Patterns, you'll start with the basics of object-oriented programming in JavaScript applicable to design patterns, including making JavaScript more expressive, inheritance, encapsulation, information hiding, and more. The book then details how to implement and take advantage of several design patterns in JavaScript. Each chapter is packed with real-world examples of how the design patterns are best used and expert advice on writing better code. ",
+      "Description":"With Pro JavaScript Design Patterns, you'll start with the basics of object-oriented programming in JavaScript applicable to design patterns, including making JavaScript more expressive, inheritance, encapsulation, information hiding, and more. The book then details how to implement and take advantage of several design patterns in JavaScript.",
       "CoverPhoto":"https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/5905/9781590599082.jpg"
    }
 ],
