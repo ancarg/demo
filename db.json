@@ -50,7 +50,7 @@
       "CoverPhoto":"https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/5905/9781590599082.jpg"
    }
 ],
- users: [
+ "users": [
   {
     "userName": "user-john",
     "password": "john",
