@@ -1,114 +1,110 @@
-{"books": [
-   {
-      "Id": 101,
-      "Title":"clean code",
-      "Author":"Robert Martin",
-      "Rating":4.4,
-      "Price":162,
-      "OffPercent":15,
-      "Description":"Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way.",
-      "CoverPhoto":"https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/1323/9780132350884.jpg"
-   },
-   {
-      "Id": 102,
-      "Title":"Software architecture in Practice",
-      "Author":"Robert Martin",
-      "Rating":4.9,
-      "Price":204,
-      "OffPercent":0,
-      "Description":"The award-winning and highly influential Software Architecture in Practice, Third Edition, has been substantially revised to reflect the latest developments in the field. In a real-world setting, the book once again introduces the concepts and best practices of software architecture-how a software system is structured and how that system's elements are meant to interact.",
-      "CoverPhoto":"https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/3218/9780321815736.jpg"
-   },
-   {
-      "Id": 103,
-      "Title":"Angular in Action",
-      "Author":"Jason Aden",
-      "Rating":3.9,
-      "Price":120,
-      "OffPercent":50,
-      "Description":"When developers move beyond building simple web sites or small applications, things get complicated. Managing data gets messy, handling browser incompatibilities takes time, juggling competing user interactions and integrating the work of multiple developers gets tricky.",
-      "CoverPhoto":"https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/6172/9781617293313.jpg"
-   },
-   {
-      "Id": 104,
-      "Title":"Design Patterns",
-      "Author":"John Vlissides",
-      "Rating":4.1,
-      "Price":178,
-      "OffPercent":10,
-      "Description":"Capturing a wealth of experience about the design of object-oriented software, four top-notch designers present a catalog of simple and succinct solutions to commonly occurring design problems. Previously undocumented, these 23 patterns allow designers to create more flexible, elegant, and ultimately reusable designs.",
-      "CoverPhoto":"https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/2016/9780201633610.jpg"
-   },
-   {
-      "Id": 105,
-      "Title":"Pro JavaScript design patterns",
-      "Author":"Ross Harmes",
-      "Rating":3.5,
-      "Price":179,
-      "OffPercent":5,
-      "Description":"With Pro JavaScript Design Patterns, you'll start with the basics of object-oriented programming in JavaScript applicable to design patterns, including making JavaScript more expressive, inheritance, encapsulation, information hiding, and more. The book then details how to implement and take advantage of several design patterns in JavaScript.",
-      "CoverPhoto":"https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/5905/9781590599082.jpg"
-   }
-],
- "users": [
-  {
-    "userName": "user-john",
-    "password": "john",
-    "fullname": "John D.",
-    "emailAddress": "john@book-store.com",
-    "homeAddress": "Chicago, Lake Street",
-    "phoneNo": "0711143432"
+{
+	"books": [{
+			"Id": 101,
+			"Title": "clean code",
+			"Author": "Robert Martin",
+			"Rating": 4.4,
+			"Price": 162,
+			"OffPercent": 15,
+			"Description": "Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way.",
+			"CoverPhoto": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/1323/9780132350884.jpg"
+		},
+		{
+			"Id": 102,
+			"Title": "Software architecture in Practice",
+			"Author": "Robert Martin",
+			"Rating": 4.9,
+			"Price": 204,
+			"OffPercent": 0,
+			"Description": "The award-winning and highly influential Software Architecture in Practice, Third Edition, has been substantially revised to reflect the latest developments in the field. In a real-world setting, the book once again introduces the concepts and best practices of software architecture-how a software system is structured and how that system's elements are meant to interact.",
+			"CoverPhoto": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/3218/9780321815736.jpg"
+		},
+		{
+			"Id": 103,
+			"Title": "Angular in Action",
+			"Author": "Jason Aden",
+			"Rating": 3.9,
+			"Price": 120,
+			"OffPercent": 50,
+			"Description": "When developers move beyond building simple web sites or small applications, things get complicated. Managing data gets messy, handling browser incompatibilities takes time, juggling competing user interactions and integrating the work of multiple developers gets tricky.",
+			"CoverPhoto": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/6172/9781617293313.jpg"
+		},
+		{
+			"Id": 104,
+			"Title": "Design Patterns",
+			"Author": "John Vlissides",
+			"Rating": 4.1,
+			"Price": 178,
+			"OffPercent": 10,
+			"Description": "Capturing a wealth of experience about the design of object-oriented software, four top-notch designers present a catalog of simple and succinct solutions to commonly occurring design problems. Previously undocumented, these 23 patterns allow designers to create more flexible, elegant, and ultimately reusable designs.",
+			"CoverPhoto": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9780/2016/9780201633610.jpg"
+		},
+		{
+			"Id": 105,
+			"Title": "Pro JavaScript design patterns",
+			"Author": "Ross Harmes",
+			"Rating": 3.5,
+			"Price": 179,
+			"OffPercent": 5,
+			"Description": "With Pro JavaScript Design Patterns, you'll start with the basics of object-oriented programming in JavaScript applicable to design patterns, including making JavaScript more expressive, inheritance, encapsulation, information hiding, and more. The book then details how to implement and take advantage of several design patterns in JavaScript.",
+			"CoverPhoto": "https://d1w7fb2mkkr3kw.cloudfront.net/assets/images/book/lrg/9781/5905/9781590599082.jpg"
+		}
+	],
+	"users": [{
+			"userName": "user-john",
+			"password": "john",
+			"fullname": "John D.",
+			"emailAddress": "john@book-store.com",
+			"homeAddress": "Chicago, Lake Street",
+			"phoneNo": "0711143432"
 
-  },
-  {
-    "userName": "user-laura",
-    "password": "laura",
-    "name": "Laura K.",
-    "emailAddress": "laura@book-store.com",
-    "homeAddress": "Los Angeles, Maple Sreet",
-    "phoneNo": "0722224432"
-  },
-  {
-    "userName": "user-tom",
-    "password": "tom",
-    "name": "Tom H.",
-    "emailAddress": "tom@book-store.com",
-    "homeAddress": "New York, Oak Street",
-    "phoneNo": "07333456532"
-  },
-  {
-    "userName": "user-veronica",
-    "password": "veronica",
-    "name": "Veronica M.",
-    "emailAddress": "veronica@book-store.com",
-    "homeAddress": "Seattle, Elm Street",
-    "phoneNo": "0744455432"
-  },
-  {
-    "userName": "user-louie",
-    "password": "louie",
-    "name": "Louie A.",
-    "emailAddress": "louie@book-store.com",
-    "homeAddress": "Wisconsin, Cedar Knoll Street",
-    "phoneNo": "0755555432"
-  }
-  ],
- "docker" :[
-    {
-       "name" : "docker",
-       "returnVal" : "docker-18.09-3"
-    },
-    {
-       "name" : "docker",
-       "release" : "18.06",
-        "returnVal" : "docker-18.06-3"
-    },
-    {
-       "name" : "docker",
-       "release" : "18.03",
-        "returnVal" : "docker-18.03-3"
-    }
-    
-    
-    ]
+		},
+		{
+			"userName": "user-laura",
+			"password": "laura",
+			"name": "Laura K.",
+			"emailAddress": "laura@book-store.com",
+			"homeAddress": "Los Angeles, Maple Sreet",
+			"phoneNo": "0722224432"
+		},
+		{
+			"userName": "user-tom",
+			"password": "tom",
+			"name": "Tom H.",
+			"emailAddress": "tom@book-store.com",
+			"homeAddress": "New York, Oak Street",
+			"phoneNo": "07333456532"
+		},
+		{
+			"userName": "user-veronica",
+			"password": "veronica",
+			"name": "Veronica M.",
+			"emailAddress": "veronica@book-store.com",
+			"homeAddress": "Seattle, Elm Street",
+			"phoneNo": "0744455432"
+		},
+		{
+			"userName": "user-louie",
+			"password": "louie",
+			"name": "Louie A.",
+			"emailAddress": "louie@book-store.com",
+			"homeAddress": "Wisconsin, Cedar Knoll Street",
+			"phoneNo": "0755555432"
+		}
+	],
+	"docker": [{
+			"name": "docker",
+			"returnVal": "docker-18.09-3"
+		},
+		{
+			"name": "docker",
+			"release": "18.06",
+			"returnVal": "docker-18.06-3"
+		},
+		{
+			"name": "docker",
+			"release": "18.03",
+			"returnVal": "docker-18.03-3"
+		}
+	]
 }
