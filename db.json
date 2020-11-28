@@ -63,7 +63,7 @@
 		{
 			"username": "user-laura",
 			"password": "laura",
-			"name": "Laura K.",
+			"fullname": "Laura K.",
 			"emailAddress": "laura@book-store.com",
 			"homeAddress": "Los Angeles, Maple Sreet",
 			"phoneNo": "0722224432",
@@ -72,7 +72,7 @@
 		{
 			"username": "user-tom",
 			"password": "tom",
-			"name": "Tom H.",
+			"fullname": "Tom H.",
 			"emailAddress": "tom@book-store.com",
 			"homeAddress": "New York, Oak Street",
 			"phoneNo": "07333456532",
@@ -81,7 +81,7 @@
 		{
 			"username": "user-veronica",
 			"password": "veronica",
-			"name": "Veronica M.",
+			"fullname": "Veronica M.",
 			"emailAddress": "veronica@book-store.com",
 			"homeAddress": "Seattle, Elm Street",
 			"phoneNo": "0744455432",
@@ -90,7 +90,7 @@
 		{
 			"username": "user-louie",
 			"password": "louie",
-			"name": "Louie A.",
+			"fullname": "Louie A.",
 			"emailAddress": "louie@book-store.com",
 			"homeAddress": "Wisconsin, Cedar Knoll Street",
 			"phoneNo": "0755555432",
