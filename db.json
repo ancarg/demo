@@ -56,7 +56,8 @@
 			"fullname": "John D.",
 			"emailAddress": "john@book-store.com",
 			"homeAddress": "Chicago, Lake Street",
-			"phoneNo": "0711143432"
+			"phoneNo": "0711143432",
+		        "avgBooksPerMonth": 1.5
 
 		},
 		{
@@ -65,7 +66,8 @@
 			"name": "Laura K.",
 			"emailAddress": "laura@book-store.com",
 			"homeAddress": "Los Angeles, Maple Sreet",
-			"phoneNo": "0722224432"
+			"phoneNo": "0722224432",
+		        "avgBooksPerMonth": 5
 		},
 		{
 			"username": "user-tom",
@@ -73,7 +75,8 @@
 			"name": "Tom H.",
 			"emailAddress": "tom@book-store.com",
 			"homeAddress": "New York, Oak Street",
-			"phoneNo": "07333456532"
+			"phoneNo": "07333456532",
+		        "avgBooksPerMonth": 3.2
 		},
 		{
 			"username": "user-veronica",
@@ -81,7 +84,8 @@
 			"name": "Veronica M.",
 			"emailAddress": "veronica@book-store.com",
 			"homeAddress": "Seattle, Elm Street",
-			"phoneNo": "0744455432"
+			"phoneNo": "0744455432",
+		        "avgBooksPerMonth": 4
 		},
 		{
 			"username": "user-louie",
@@ -89,7 +93,8 @@
 			"name": "Louie A.",
 			"emailAddress": "louie@book-store.com",
 			"homeAddress": "Wisconsin, Cedar Knoll Street",
-			"phoneNo": "0755555432"
+			"phoneNo": "0755555432",
+		        "avgBooksPerMonth": 2.5
 		}
 	],
 	"docker": [{
